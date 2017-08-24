@@ -1,2 +1,3 @@
 I am dev beanch.
-add one line master
+add one line dev
+add two line dev
